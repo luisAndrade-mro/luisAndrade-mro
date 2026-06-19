@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/luisAndrade-mro/luisAndrade-mro/blob/main/55323265139-3f76fbd65a-o.jpg" width="100%" alt="Profile Background">
+</p>
 
 <!--
 **luisAndrade-mro/luisAndrade-mro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
