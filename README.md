@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/luisAndrade-mro/luisAndrade-mro/blob/main/55323265139-3f76fbd65a-o.jpg" width="100%" alt="Profile Background">
+  <img src="https://github.com/luisAndrade-mro/luisAndrade-mro/blob/main/55205768700-7d3f580146-o.webp" width="100%" alt="Profile Background">
 </p>
 
 <!--
